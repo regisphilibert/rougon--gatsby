@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Navigation from '../components/Navigation'
+import Navigation from '../components/navigation'
 const Header = ({ siteData }) => (
   <header className="rm-header">
     <div className="rm-container">
