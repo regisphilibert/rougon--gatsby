@@ -57,4 +57,4 @@ rm_novel_characters:
   - 77114
 
 ---
-Résumé chapitre par chapitre à venir !
+Résumé par chapitre à venir !
